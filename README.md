@@ -1,0 +1,1 @@
+[CircleCi fork](https://github.com/circleci/postgres-docker/) of postgres-docker with performance improvements based on this [article](http://rhaas.blogspot.com.br/2010/06/postgresql-as-in-memory-only-database_24.html).
